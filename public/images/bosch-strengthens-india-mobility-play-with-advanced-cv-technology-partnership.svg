@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720">
+  <rect width="1280" height="720" fill="#111827"/>
+  <rect x="70" y="70" width="1140" height="580" rx="32" fill="#1f2937"/>
+  <text x="100" y="150" font-family="Arial" font-size="34" fill="#93c5fd" font-weight="700">Technology</text>
+  <foreignObject x="100" y="210" width="1080" height="300">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial;color:white;font-size:56px;font-weight:800;line-height:1.15;">
+      Bosch strengthens India mobility play with advanced CV technology partnership
+    </div>
+  </foreignObject>
+  <text x="100" y="610" font-family="Arial" font-size="28" fill="#bfdbfe">DG Blogs • 2026-05-21</text>
+</svg>
